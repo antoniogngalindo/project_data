@@ -11,7 +11,7 @@ El informe proporciona una visión general de los siniestros viales, centrándos
 
 ## EDA
 
-El archivo EDA.ipynb apresenta las análisis exploratória de datos para el dataset disponibilizado, con explicación de que fue hecho en cada momento.
+El archivo EDA.ipynb apresenta los análisis exploratória de datos para el dataset disponibilizado, con explicación de que fue hecho en cada momento.
 
 ## Reducción de accidentes
 
