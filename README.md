@@ -1,7 +1,7 @@
 # Informe sobre Siniestros Viales en Buenos Aires
 
 <p align="center">
-  <img src="image.png" alt="Descrição da imagem" width="800" height="500">
+  <img src="Dataset/image.png" alt="Descrição da imagem" width="800" height="500">
 </p>
 
 
