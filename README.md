@@ -5,7 +5,7 @@
 </p>
 
 
-Este [Informe](https://drive.google.com/file/d/17Ti-NZzuRncMMcB3rpOEkgS1APRyNLpF/view?usp=sharing) tiene como objetivo analizar la problemática de los siniestros viales en la ciudad de Buenos Aires, utilizando como referencia el [Dataset Homicidios en Buenos Aires](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
+Este [Informe](https://drive.google.com/file/d/1BYOtdUqWXpGMsyuVFU0ebE6jCZY7XCMr/view?usp=sharing) tiene como objetivo analizar la problemática de los siniestros viales en la ciudad de Buenos Aires, utilizando como referencia el [Dataset Homicidios en Buenos Aires](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
 
 El informe proporciona una visión general de los siniestros viales, centrándose en tres aspectos clave: la reducción de accidentes, el análisis de accidentes de motocicletas y la relación entre sexos en los siniestros viales.
 
