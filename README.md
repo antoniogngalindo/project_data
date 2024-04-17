@@ -29,7 +29,10 @@ Su fórmula es: (Número de accidentes mortales con víctimas en moto en el año
 
 El KPI utilizado para analizar la relación entre sexos en los siniestros viales es la proporción de víctimas por sexo. Se calcula el porcentaje de víctimas masculinas y femeninas en comparación con el total de casos. Además, se realiza un análisis de la proporción por comuna y sexo para obtener una visión más detallada de las disparidades de género en diferentes áreas de la ciudad.
 
-En conclusión, este informe destaca la importancia de abordar la problemática de los siniestros viales en Buenos Aires. A través del análisis de diferentes indicadores, se busca promover la adopción de políticas y medidas que contribuyan a reducir los accidentes, preservar la seguridad vial y proteger la vida de los ciudadanos.
+## Conclusión
+Este informe destaca la importancia de abordar la problemática de los siniestros viales en Buenos Aires. A través del análisis de diferentes indicadores, se busca promover la adopción de políticas y medidas que contribuyan a reducir los accidentes, preservar la seguridad vial y proteger la vida de los ciudadanos.
+
+
 
 **Nota 1**: Cada archivo KPI tiene paso a paso del proceso realizado
 **Nota 2**: [Dataset adicional para hacer el KPI Reducción de accidentes](https://www.estadisticaciudad.gob.ar/eyc/?p=76599)
